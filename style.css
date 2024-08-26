@@ -640,6 +640,7 @@ transition: 300ms ease;
   max-width: 1200px;
   margin: 0 auto;
   padding-top: 56px;
+  padding-top: 30px;
 }
 
 .pre-foot-wrap{
